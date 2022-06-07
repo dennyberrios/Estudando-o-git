@@ -12,12 +12,13 @@ p{
 }
 h1{
     font-size: 60px;
-    color: red;
+    color: rgb(249, 37, 37);
     margin: 2px;
+    text-shadow: -5px 5px 3px rgb(167, 167, 167);
 }
 h2{
     font-size: 40px;
-    color: red;
+    color: rgb(249, 37, 37);
     margin: 5px;
 }
 #container{
